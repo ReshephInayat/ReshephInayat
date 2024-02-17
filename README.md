@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm ReshephInayat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="1000" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
+<img align="right" alt="Coding" width="500" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 
 - 🔭 I’m currently working on [PIAIC-PROJECT](https://rasaf-dinemart.vercel.app/)
 
