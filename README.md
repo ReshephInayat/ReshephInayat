@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center"> 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7F7F7&background=FF1F0000&center=true&vCenter=true&width=435&height=52&lines=Hey+I'm++Resheph+Inayat)](https://git.io/typing-svg)
+
+  Hey I'm Resheph Inayat 
 
 </h1>
 <h3 align="center">Experienced in Generative AI, Cloud Computing, and Full Stack Development Innovating Intelligent Solutions Building Scalable and Dynamic Applications.</h3>
