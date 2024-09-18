@@ -1,39 +1,42 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋🏻, I'm ReshephInayat</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7F7F7&background=FF1F0000&center=true&vCenter=true&width=435&height=52&lines=Hey+I'm++Resheph+Inayat)](https://git.io/typing-svg)
+
+</h1>
+<h3 align="center">Experienced in Generative AI, Cloud Computing, and Full Stack Development Innovating Intelligent Solutions Building Scalable and Dynamic Applications.</h3>
 <!-- <img align="right" alt="Coding" width="600" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"> -->
 
-- 🔭 My Portfolio (https://rasaf-portfolio.vercel.app/)
+## 🔧 My Tech Stack:
+- **Frontend:** TypeScript, Next.js, TailwindCSS, Vercel AI SDK
+- **Backend:** Python, FastAPI, SQLModel, Microservices
+- **GenAI/AI:** GPT-4o, Custom GPT'S, Ollama, LLM'S
+- **DevOps:** Docker, Apache Kafka, Kong
+- **Databases:** PostgreSQL
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Next JS | React Js | Typescript| Tailwind Css**
-
-- 📫 How to reach me **rasafinayat@gmail.com**
-
-- ⚡ Fun fact **"Did you know? The programming language Python was named after the British comedy show 'Monty Python's Flying Circus.' Guido van Rossum, Python's creator, was a fan of the show and wanted a short, unique, and slightly mysterious name for his new language. Thus, Python was born, bringing humor and versatility to the world of programming."**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/resheph-inayat-b733132a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="resheph inayat" height="30" width="40" /></a>
-<a href="https://instagram.com/resheph_inayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="resheph_inayat" height="30" width="40" /></a>
-</p>
+## 📫 How to Reach Me:
+- [L i n k e d I n](https://www.linkedin.com/in/resheph-inayat-b733132a9/)
+- [I n s t a g r a m](https://instagram.com/resheph_inayat)
+- [E m a i l](reshephinayatofficial@gmail.com)
+##
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/fff" /> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/openai/fff" /> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/ollama/fff" /> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/apachekafka/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/kong/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/postman/fff" />
+<!-- <img height="32" width="32" src="https://cdn.simpleicons.org/figma/fff" /> -->
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/fff" />
 </p>
-
