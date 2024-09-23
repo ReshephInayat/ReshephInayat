@@ -10,7 +10,7 @@
 ## 🔧 My Tech Stack:
 - **Frontend:** TypeScript, Next.js, TailwindCSS, Vercel AI SDK
 - **Backend:** Python, FastAPI, SQLModel, Microservices
-- **GenAI/AI:** GPT-4o, Custom GPT'S, Ollama, LLM'S
+- **GenAI/AI:** GPT-4o, Custom GPT'S, LLM'S, LangChain, LanGraph
 - **DevOps:** Docker, Apache Kafka, Kong
 - **Databases:** PostgreSQL
 
